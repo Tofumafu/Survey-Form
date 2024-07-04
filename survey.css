@@ -1,0 +1,39 @@
+header{
+    background-color: #2A3F3F;
+    padding: 10px;
+    color: white;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: square;
+}
+li:hover{
+    background: #467750;
+}
+.con1{
+    background-color: #467750;
+    padding: 10px;
+    color: white;
+}
+.con2{
+    background-color: #E0E8E2;
+    padding: 10px;
+}
+footer{
+    background-color: #2A3F3F;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.comment{
+    margin: 20px auto;
+    padding: 40px;
+    background-color: white;
+}
